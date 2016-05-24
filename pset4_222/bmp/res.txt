@@ -1,0 +1,17 @@
+offset  type   name              argv[1]   argv[2]
+[32m0       WORD   bfType               4d42      4d42[39m
+[31m2       DWORD  bfSize           0000005a  00000276[39m
+[32m6       WORD   bfReserved1          0000      0000[39m
+[32m8       WORD   bfReserved2          0000      0000[39m
+[32m10      DWORD  bfOffBits        00000036  00000036[39m
+[32m14      DWORD  biSize           00000028  00000028[39m
+[32m18      LONG   biWidth          00000003  00000003[39m
+[32m22      LONG   biHeight         fffffffd  fffffffd[39m
+[32m26      WORD   biPlanes             0001      0001[39m
+[32m28      WORD   biBitCount           0018      0018[39m
+[32m30      DWORD  biCompression    00000000  00000000[39m
+[32m34      DWORD  biSizeImage      00000024  00000024[39m
+[32m38      LONG   biXPelsPerMeter  00000b12  00000b12[39m
+[32m42      LONG   biYPelsPerMeter  00000b12  00000b12[39m
+[32m46      DWORD  biClrUsed        00000000  00000000[39m
+[32m50      DWORD  biClrImportant   00000000  00000000[39m

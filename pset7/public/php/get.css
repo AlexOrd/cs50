@@ -1,0 +1,17 @@
+.key
+{
+    background-color: yellow;
+    color: black;
+    font-size: 22pt;
+    width: 40px;
+    text-align: center;
+}
+
+.value
+{
+    background-color: blue;
+    color: white;
+    font-size: 22pt;
+    width: 100px;
+    text-align: center;
+}
